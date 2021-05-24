@@ -1,0 +1,8 @@
+Saat eksekusi test case yang didapat dari record web,
+Elapsed time rata: 40 s
+
+Saat eksekusi test case yang didapat dari spy web,
+Elapsed time rata: 36 s
+
+Jadi, berdasarkan tes yang dilakukan dengan katalon, objek repositori yang didapat secara manual akan lebih cepat diproses oleh katalon studio.
+
