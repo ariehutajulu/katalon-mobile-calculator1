@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuites-dgnSPY" time="37.157" tests="4" failures="0" skips="0" errors="0">
+   <testsuite name="TestSuites-dgnSPY" tests="4" failures="0" errors="0" time="37.157" skips="0" timestamp="2021-05-24 22:16:18" hostname="arieh - ARIE-HUTAJULU" id="Test Suites/TestSuites-dgnSPY">
+      <properties>
+         <property name="deviceName" value="Xiaomi POCOPHONE F1 (Android 10)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\arieh\\Katalon Studio\\Calculator\\Reports\\20210524_221609\\TestSuites-dgnSPY\\20210524_221609"/>
+         <property name="logFiles" value="C:\\Users\\arieh\\Katalon Studio\\Calculator\\Reports\\20210524_221609\\TestSuites-dgnSPY\\20210524_221609\\appium.log, C:\\Users\\arieh\\Katalon Studio\\Calculator\\Reports\\20210524_221609\\TestSuites-dgnSPY\\20210524_221609\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="arieh - ARIE-HUTAJULU"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.21.0&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="7.9.1.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.21.0"/>
+         <property name="deviceModel" value="POCOPHONE F1"/>
+         <property name="hostAddress" value="192.168.7.105"/>
+         <property name="deviceManufacturer" value="Xiaomi"/>
+         <property name="deviceId" value="b6f012db"/>
+         <property name="deviceName" value="Xiaomi POCOPHONE F1 (Android 10)"/>
+         <property name="deviceOSVersion" value="10"/>
+      </properties>
+      <testcase name="Test Cases/Spy Mobile/penjumlahan" time="18.068" classname="Test Cases/Spy Mobile/penjumlahan" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:16:19 - [TEST_CASE][PASSED] - Test Cases/Spy Mobile/penjumlahan: Test Cases/Spy Mobile/penjumlahan
+
+2021-05-24 22:16:20 - [TEST_STEP][PASSED] - startApplication("C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk", false): Started app at: 'C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk'
+
+2021-05-24 22:16:21 - [MESSAGE][INFO] - Appium server started on port 54,564
+
+2021-05-24 22:16:32 - [MESSAGE][INFO] - Failed to get OS statusbar's information using default method.
+
+2021-05-24 22:16:32 - [MESSAGE][PASSED] - Started app at: 'C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk'
+
+2021-05-24 22:16:32 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/2"), 0): Tapped on element 'Object Repository/Objek baru/2'
+
+2021-05-24 22:16:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/2'
+
+2021-05-24 22:16:33 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/tambah"), 0): Tapped on element 'Object Repository/Objek baru/tambah'
+
+2021-05-24 22:16:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:34 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/tambah'
+
+2021-05-24 22:16:34 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/8"), 0): Tapped on element 'Object Repository/Objek baru/8'
+
+2021-05-24 22:16:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:36 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/8'
+
+2021-05-24 22:16:36 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/samadengan"), 0): Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:36 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:36 - [TEST_STEP][PASSED] - getText(findTestObject("Objek baru/validasiteks"), 10): Text of element 'Object Repository/Objek baru/validasiteks' is: ''
+
+2021-05-24 22:16:37 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek baru/validasiteks' is: '']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Spy Mobile/pengurangan" time="5.938" classname="Test Cases/Spy Mobile/pengurangan" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:16:37 - [TEST_CASE][PASSED] - Test Cases/Spy Mobile/pengurangan: Test Cases/Spy Mobile/pengurangan
+
+2021-05-24 22:16:38 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/9"), 0): Tapped on element 'Object Repository/Objek baru/9'
+
+2021-05-24 22:16:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:39 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/9'
+
+2021-05-24 22:16:39 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/kurang"), 0): Tapped on element 'Object Repository/Objek baru/kurang'
+
+2021-05-24 22:16:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/kurang'
+
+2021-05-24 22:16:40 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/8"), 0): Tapped on element 'Object Repository/Objek baru/8'
+
+2021-05-24 22:16:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/8'
+
+2021-05-24 22:16:41 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/samadengan"), 0): Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:42 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:42 - [TEST_STEP][PASSED] - getText(findTestObject("Objek baru/validasiteks"), 1): Text of element 'Object Repository/Objek baru/validasiteks' is: ''
+
+2021-05-24 22:16:43 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek baru/validasiteks' is: '']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Spy Mobile/perkalian" time="5.621" classname="Test Cases/Spy Mobile/perkalian" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:16:43 - [TEST_CASE][PASSED] - Test Cases/Spy Mobile/perkalian: Test Cases/Spy Mobile/perkalian
+
+2021-05-24 22:16:43 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/6"), 0): Tapped on element 'Object Repository/Objek baru/6'
+
+2021-05-24 22:16:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/6'
+
+2021-05-24 22:16:44 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/kali"), 0): Tapped on element 'Object Repository/Objek baru/kali'
+
+2021-05-24 22:16:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/kali'
+
+2021-05-24 22:16:45 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/5"), 0): Tapped on element 'Object Repository/Objek baru/5'
+
+2021-05-24 22:16:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:47 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/5'
+
+2021-05-24 22:16:47 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/samadengan"), 0): Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:48 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:48 - [TEST_STEP][PASSED] - getText(findTestObject("Objek baru/validasiteks"), 30): Text of element 'Object Repository/Objek baru/validasiteks' is: ''
+
+2021-05-24 22:16:49 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek baru/validasiteks' is: '']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Spy Mobile/pembagian" time="5.571" classname="Test Cases/Spy Mobile/pembagian" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:16:49 - [TEST_CASE][PASSED] - Test Cases/Spy Mobile/pembagian: Test Cases/Spy Mobile/pembagian
+
+2021-05-24 22:16:49 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/9"), 0): Tapped on element 'Object Repository/Objek baru/9'
+
+2021-05-24 22:16:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:50 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/9'
+
+2021-05-24 22:16:50 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/bagi"), 0): Tapped on element 'Object Repository/Objek baru/bagi'
+
+2021-05-24 22:16:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:51 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/bagi'
+
+2021-05-24 22:16:51 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/3"), 0): Tapped on element 'Object Repository/Objek baru/3'
+
+2021-05-24 22:16:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:52 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/3'
+
+2021-05-24 22:16:52 - [TEST_STEP][PASSED] - tap(findTestObject("Objek baru/samadengan"), 0): Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:16:53 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek baru/samadengan'
+
+2021-05-24 22:16:53 - [TEST_STEP][PASSED] - getText(findTestObject("Objek baru/validasiteks"), 3): Text of element 'Object Repository/Objek baru/validasiteks' is: ''
+
+2021-05-24 22:16:54 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek baru/validasiteks' is: '']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-05-24 22:16:18 - [TEST_SUITE][PASSED] - TestSuites-dgnSPY: Test Cases/Spy Mobile/pembagian]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuites-RECORD,,,,2021-05-24 23:53:17,2021-05-24 23:53:21,3.148s,FAILED
+,,,,,,,
+Test Cases/Record Mobile/penjumlahan rec,,,,2021-05-24 23:53:19,2021-05-24 23:53:19,0.706s,FAILED
+"startApplication(""C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk"", true)",,,,2021-05-24 23:53:19,2021-05-24 23:53:19,0.288s,FAILED
+,,,,,,,
+Test Cases/Record Mobile/pengurangan rec,,,,2021-05-24 23:53:19,2021-05-24 23:53:20,0.573s,FAILED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 9""), 0)",,,,2021-05-24 23:53:20,2021-05-24 23:53:20,0.129s,PASSED
+,,,,,,,
+Test Cases/Record Mobile/perkalian rec,,,,2021-05-24 23:53:20,2021-05-24 23:53:20,0.385s,FAILED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 6""), 0)",,,,2021-05-24 23:53:20,2021-05-24 23:53:20,0.069s,PASSED
+,,,,,,,
+Test Cases/Record Mobile/pembagian rec,,,,2021-05-24 23:53:20,2021-05-24 23:53:21,0.364s,FAILED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 9 (1)""), 0)",,,,2021-05-24 23:53:21,2021-05-24 23:53:21,0.057s,PASSED

@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuites-RECORD,,,,2021-05-24 22:30:30,2021-05-24 22:31:55,1m - 25.304s,FAILED
+,,,,,,,
+Test Cases/Record Mobile/penjumlahan rec,,,,2021-05-24 22:30:31,2021-05-24 22:30:54,23.118s,FAILED
+"startApplication(""C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk"", true)",,,,2021-05-24 22:30:31,2021-05-24 22:30:53,21.983s,PASSED
+"tap(findTestObject(""""), 0)",,,,2021-05-24 22:30:53,2021-05-24 22:30:54,0.717s,FAILED
+,,,,,,,
+Test Cases/Record Mobile/pengurangan rec,,,,2021-05-24 22:30:54,2021-05-24 22:31:16,22.094s,PASSED
+"startApplication(""C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk"", true)",,,,2021-05-24 22:30:54,2021-05-24 22:31:09,15.022s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 9""), 0)",,,,2021-05-24 22:31:09,2021-05-24 22:31:11,1.178s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button -  (2)""), 0)",,,,2021-05-24 22:31:11,2021-05-24 22:31:11,0.559s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 8 (1)""), 0)",,,,2021-05-24 22:31:11,2021-05-24 22:31:13,1.404s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button -  (3)""), 0)",,,,2021-05-24 22:31:13,2021-05-24 22:31:13,0.494s,PASSED
+"getText(findTestObject(""Object Repository/Objek Record/android.widget.TextView - 1""), 0)",,,,2021-05-24 22:31:13,2021-05-24 22:31:14,0.979s,PASSED
+closeApplication(),,,,2021-05-24 22:31:14,2021-05-24 22:31:16,2.088s,PASSED
+,,,,,,,
+Test Cases/Record Mobile/perkalian rec,,,,2021-05-24 22:31:16,2021-05-24 22:31:35,19.301s,PASSED
+"startApplication(""C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk"", true)",,,,2021-05-24 22:31:16,2021-05-24 22:31:30,13.225s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 6""), 0)",,,,2021-05-24 22:31:30,2021-05-24 22:31:31,0.898s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button -  (4)""), 0)",,,,2021-05-24 22:31:31,2021-05-24 22:31:32,1.036s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 5""), 0)",,,,2021-05-24 22:31:32,2021-05-24 22:31:33,1.050s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button -  (5)""), 0)",,,,2021-05-24 22:31:33,2021-05-24 22:31:33,0.516s,PASSED
+"getText(findTestObject(""Object Repository/Objek Record/android.widget.TextView - 30""), 0)",,,,2021-05-24 22:31:33,2021-05-24 22:31:34,0.897s,PASSED
+closeApplication(),,,,2021-05-24 22:31:34,2021-05-24 22:31:35,1.358s,PASSED
+,,,,,,,
+Test Cases/Record Mobile/pembagian rec,,,,2021-05-24 22:31:35,2021-05-24 22:31:55,19.632s,PASSED
+"startApplication(""C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk"", true)",,,,2021-05-24 22:31:36,2021-05-24 22:31:49,12.825s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 9 (1)""), 0)",,,,2021-05-24 22:31:49,2021-05-24 22:31:50,1.210s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button -  (6)""), 0)",,,,2021-05-24 22:31:50,2021-05-24 22:31:51,0.994s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button - 3""), 0)",,,,2021-05-24 22:31:51,2021-05-24 22:31:51,0.540s,PASSED
+"tap(findTestObject(""Object Repository/Objek Record/android.widget.Button -  (7)""), 0)",,,,2021-05-24 22:31:51,2021-05-24 22:31:52,0.916s,PASSED
+"getText(findTestObject(""Object Repository/Objek Record/android.widget.TextView - 3""), 0)",,,,2021-05-24 22:31:52,2021-05-24 22:31:54,1.581s,PASSED
+closeApplication(),,,,2021-05-24 22:31:54,2021-05-24 22:31:55,1.243s,PASSED

@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuites-dgnSPY,,,,2021-05-24 22:16:18,2021-05-24 22:16:54,36.402s,PASSED
+,,,,,,,
+Test Cases/Spy Mobile/penjumlahan,,,,2021-05-24 22:16:19,2021-05-24 22:16:37,18.068s,PASSED
+"startApplication(""C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk"", false)",,,,2021-05-24 22:16:20,2021-05-24 22:16:32,12.554s,PASSED
+"tap(findTestObject(""Objek baru/2""), 0)",,,,2021-05-24 22:16:32,2021-05-24 22:16:33,0.797s,PASSED
+"tap(findTestObject(""Objek baru/tambah""), 0)",,,,2021-05-24 22:16:33,2021-05-24 22:16:34,1.389s,PASSED
+"tap(findTestObject(""Objek baru/8""), 0)",,,,2021-05-24 22:16:34,2021-05-24 22:16:36,1.432s,PASSED
+"tap(findTestObject(""Objek baru/samadengan""), 0)",,,,2021-05-24 22:16:36,2021-05-24 22:16:36,0.555s,PASSED
+"getText(findTestObject(""Objek baru/validasiteks""), 10)",,,,2021-05-24 22:16:36,2021-05-24 22:16:37,0.919s,PASSED
+,,,,,,,
+Test Cases/Spy Mobile/pengurangan,,,,2021-05-24 22:16:37,2021-05-24 22:16:43,5.938s,PASSED
+"tap(findTestObject(""Objek baru/9""), 0)",,,,2021-05-24 22:16:38,2021-05-24 22:16:39,1.856s,PASSED
+"tap(findTestObject(""Objek baru/kurang""), 0)",,,,2021-05-24 22:16:39,2021-05-24 22:16:40,1.007s,PASSED
+"tap(findTestObject(""Objek baru/8""), 0)",,,,2021-05-24 22:16:40,2021-05-24 22:16:41,0.514s,PASSED
+"tap(findTestObject(""Objek baru/samadengan""), 0)",,,,2021-05-24 22:16:41,2021-05-24 22:16:42,1.479s,PASSED
+"getText(findTestObject(""Objek baru/validasiteks""), 1)",,,,2021-05-24 22:16:42,2021-05-24 22:16:43,0.747s,PASSED
+,,,,,,,
+Test Cases/Spy Mobile/perkalian,,,,2021-05-24 22:16:43,2021-05-24 22:16:49,5.621s,PASSED
+"tap(findTestObject(""Objek baru/6""), 0)",,,,2021-05-24 22:16:43,2021-05-24 22:16:44,0.976s,PASSED
+"tap(findTestObject(""Objek baru/kali""), 0)",,,,2021-05-24 22:16:44,2021-05-24 22:16:45,1.009s,PASSED
+"tap(findTestObject(""Objek baru/5""), 0)",,,,2021-05-24 22:16:45,2021-05-24 22:16:47,1.457s,PASSED
+"tap(findTestObject(""Objek baru/samadengan""), 0)",,,,2021-05-24 22:16:47,2021-05-24 22:16:48,0.983s,PASSED
+"getText(findTestObject(""Objek baru/validasiteks""), 30)",,,,2021-05-24 22:16:48,2021-05-24 22:16:49,0.865s,PASSED
+,,,,,,,
+Test Cases/Spy Mobile/pembagian,,,,2021-05-24 22:16:49,2021-05-24 22:16:54,5.571s,PASSED
+"tap(findTestObject(""Objek baru/9""), 0)",,,,2021-05-24 22:16:49,2021-05-24 22:16:50,0.477s,PASSED
+"tap(findTestObject(""Objek baru/bagi""), 0)",,,,2021-05-24 22:16:50,2021-05-24 22:16:51,1.384s,PASSED
+"tap(findTestObject(""Objek baru/3""), 0)",,,,2021-05-24 22:16:51,2021-05-24 22:16:52,1.348s,PASSED
+"tap(findTestObject(""Objek baru/samadengan""), 0)",,,,2021-05-24 22:16:52,2021-05-24 22:16:53,0.504s,PASSED
+"getText(findTestObject(""Objek baru/validasiteks""), 3)",,,,2021-05-24 22:16:53,2021-05-24 22:16:54,1.533s,PASSED

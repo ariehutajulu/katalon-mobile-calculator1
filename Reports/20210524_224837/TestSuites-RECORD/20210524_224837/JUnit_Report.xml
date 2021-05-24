@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuites-RECORD" time="40.493" tests="4" failures="0" skips="0" errors="0">
+   <testsuite name="TestSuites-RECORD" tests="4" failures="0" errors="0" time="40.493" skips="0" timestamp="2021-05-24 22:48:46" hostname="arieh - ARIE-HUTAJULU" id="Test Suites/TestSuites-RECORD">
+      <properties>
+         <property name="deviceName" value="Xiaomi POCOPHONE F1 (Android 10)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\arieh\\Katalon Studio\\Calculator\\Reports\\20210524_224837\\TestSuites-RECORD\\20210524_224837"/>
+         <property name="logFiles" value="C:\\Users\\arieh\\Katalon Studio\\Calculator\\Reports\\20210524_224837\\TestSuites-RECORD\\20210524_224837\\appium.log, C:\\Users\\arieh\\Katalon Studio\\Calculator\\Reports\\20210524_224837\\TestSuites-RECORD\\20210524_224837\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="arieh - ARIE-HUTAJULU"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.21.0&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="7.9.1.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.21.0"/>
+         <property name="deviceModel" value="POCOPHONE F1"/>
+         <property name="hostAddress" value="192.168.7.105"/>
+         <property name="deviceManufacturer" value="Xiaomi"/>
+         <property name="deviceId" value="b6f012db"/>
+         <property name="deviceName" value="Xiaomi POCOPHONE F1 (Android 10)"/>
+         <property name="deviceOSVersion" value="10"/>
+      </properties>
+      <testcase name="Test Cases/Record Mobile/penjumlahan rec" time="21.078" classname="Test Cases/Record Mobile/penjumlahan rec" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:48:48 - [TEST_CASE][PASSED] - Test Cases/Record Mobile/penjumlahan rec: Test Cases/Record Mobile/penjumlahan rec
+
+2021-05-24 22:48:48 - [TEST_STEP][PASSED] - startApplication("C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk", true): Started app at: 'C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk'
+
+2021-05-24 22:48:50 - [MESSAGE][INFO] - Appium server started on port 58,157
+
+2021-05-24 22:49:03 - [MESSAGE][INFO] - Failed to get OS statusbar's information using default method.
+
+2021-05-24 22:49:03 - [MESSAGE][PASSED] - Started app at: 'C:\Users\arieh\Downloads\Calculator_v7.8 (271241277)_apkpure.com.apk'
+
+2021-05-24 22:49:03 - [TEST_STEP][PASSED] - tap(findTestObject("Objek Record/android.widget.Button - 2"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 2'
+
+2021-05-24 22:49:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:05 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 2'
+
+2021-05-24 22:49:05 - [TEST_STEP][PASSED] - tap(findTestObject("Objek Record/android.widget.Button - "), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - '
+
+2021-05-24 22:49:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:06 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - '
+
+2021-05-24 22:49:06 - [TEST_STEP][PASSED] - tap(findTestObject("Objek Record/android.widget.Button - 8"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 8'
+
+2021-05-24 22:49:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:07 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 8'
+
+2021-05-24 22:49:07 - [TEST_STEP][PASSED] - tap(findTestObject("Objek Record/android.widget.Button -  (3)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (3)'
+
+2021-05-24 22:49:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:08 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (3)'
+
+2021-05-24 22:49:08 - [TEST_STEP][PASSED] - getText(findTestObject("Object Repository/Objek Record/android.widget.TextView - 10"), 0): Text of element 'Object Repository/Objek Record/android.widget.TextView - 10' is: '10'
+
+2021-05-24 22:49:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:09 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek Record/android.widget.TextView - 10' is: '10']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Record Mobile/pengurangan rec" time="6.209" classname="Test Cases/Record Mobile/pengurangan rec" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:49:09 - [TEST_CASE][PASSED] - Test Cases/Record Mobile/pengurangan rec: Test Cases/Record Mobile/pengurangan rec
+
+2021-05-24 22:49:09 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button - 9"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 9'
+
+2021-05-24 22:49:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 9'
+
+2021-05-24 22:49:10 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button -  (2)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (2)'
+
+2021-05-24 22:49:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:11 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (2)'
+
+2021-05-24 22:49:11 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button - 8 (1)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 8 (1)'
+
+2021-05-24 22:49:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:13 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 8 (1)'
+
+2021-05-24 22:49:13 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button -  (3)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (3)'
+
+2021-05-24 22:49:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:13 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (3)'
+
+2021-05-24 22:49:13 - [TEST_STEP][PASSED] - getText(findTestObject("Object Repository/Objek Record/android.widget.TextView - 1"), 0): Text of element 'Object Repository/Objek Record/android.widget.TextView - 1' is: '1'
+
+2021-05-24 22:49:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:15 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek Record/android.widget.TextView - 1' is: '1']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Record Mobile/perkalian rec" time="4.913" classname="Test Cases/Record Mobile/perkalian rec" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:49:15 - [TEST_CASE][PASSED] - Test Cases/Record Mobile/perkalian rec: Test Cases/Record Mobile/perkalian rec
+
+2021-05-24 22:49:15 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button - 6"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 6'
+
+2021-05-24 22:49:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:16 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 6'
+
+2021-05-24 22:49:16 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button -  (4)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (4)'
+
+2021-05-24 22:49:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (4)'
+
+2021-05-24 22:49:17 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button - 5"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 5'
+
+2021-05-24 22:49:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:18 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 5'
+
+2021-05-24 22:49:18 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button -  (5)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (5)'
+
+2021-05-24 22:49:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:19 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (5)'
+
+2021-05-24 22:49:19 - [TEST_STEP][PASSED] - getText(findTestObject("Object Repository/Objek Record/android.widget.TextView - 30"), 0): Text of element 'Object Repository/Objek Record/android.widget.TextView - 30' is: '30'
+
+2021-05-24 22:49:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:20 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek Record/android.widget.TextView - 30' is: '30']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Record Mobile/pembagian rec" time="5.303" classname="Test Cases/Record Mobile/pembagian rec" status="PASSED">
+         <system-out><![CDATA[2021-05-24 22:49:20 - [TEST_CASE][PASSED] - Test Cases/Record Mobile/pembagian rec: Test Cases/Record Mobile/pembagian rec
+
+2021-05-24 22:49:20 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button - 9 (1)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 9 (1)'
+
+2021-05-24 22:49:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:21 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 9 (1)'
+
+2021-05-24 22:49:21 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button -  (6)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (6)'
+
+2021-05-24 22:49:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:22 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (6)'
+
+2021-05-24 22:49:22 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button - 3"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button - 3'
+
+2021-05-24 22:49:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button - 3'
+
+2021-05-24 22:49:24 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Objek Record/android.widget.Button -  (7)"), 0): Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (7)'
+
+2021-05-24 22:49:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Objek Record/android.widget.Button -  (7)'
+
+2021-05-24 22:49:24 - [TEST_STEP][PASSED] - getText(findTestObject("Object Repository/Objek Record/android.widget.TextView - 3"), 0): Text of element 'Object Repository/Objek Record/android.widget.TextView - 3' is: '3'
+
+2021-05-24 22:49:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-05-24 22:49:25 - [MESSAGE][PASSED] - Text of element 'Object Repository/Objek Record/android.widget.TextView - 3' is: '3']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-05-24 22:48:46 - [TEST_SUITE][PASSED] - TestSuites-RECORD: Test Cases/Record Mobile/pembagian rec]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
